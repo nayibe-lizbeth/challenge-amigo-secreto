@@ -30,11 +30,14 @@ Selecciona de manera aleatoria uno de los nombres almacenados en el arreglo.
 - Muestra el resultado en un elemento HTML usando `innerHTML`.
 
 ## Cómo usarlo
-1. Abrir el archivo `index.html` en el navegador.
-2. Escribir un nombre en el campo de entrada y presionar "Agregar".
-3. Ver los nombres agregados en la lista.
-4. Presionar "Sortear" para elegir un amigo secreto al azar.
-5. El resultado se mostrará en pantalla.
+> **Nota:** Este proyecto no está desplegado en línea. Debes abrirlo localmente en tu navegador.
+
+1. Clonar o descargar el repositorio.
+2. Abrir el archivo `index.html` en el navegador.
+3. Escribir un nombre en el campo de entrada y presionar "Agregar".
+4. Ver los nombres agregados en la lista.
+5. Presionar "Sortear" para elegir un amigo secreto al azar.
+6. El resultado se mostrará en pantalla.
 
 ## Ayuda
 Si tienes problemas o dudas sobre cómo usar el programa:
